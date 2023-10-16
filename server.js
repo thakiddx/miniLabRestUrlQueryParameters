@@ -38,3 +38,5 @@ app.get('/greet/:firstname/:lastname', (req, res) => {
 
 
 app.listen(PORT, () => console.log(`Book app listening on port ${PORT}!`));
+
+// Path: test/server.test.js
